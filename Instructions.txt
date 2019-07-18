@@ -1,0 +1,6 @@
+ShotCuts:
+
+r - Clean Screen
+s - Print Screen
+
+* For view your PrintScreen Close the File.
